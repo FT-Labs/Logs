@@ -1,0 +1,152 @@
+ 4124  17.8.2022 00:00  zsh -t
+ 4125  17.8.2022 00:00  history -l
+ 4126  17.8.2022 00:02  history -lt
+ 4127  17.8.2022 00:02  history -l -t
+ 4128  17.8.2022 00:02  fc -l
+ 4129  17.8.2022 00:02  fc -t
+ 4130  17.8.2022 00:02  fc --time
+ 4131  17.8.2022 00:02  ime  fc -t
+ 4132  17.8.2022 00:02  fc 
+ 4133  17.8.2022 00:02  ime  fc -t
+ 4134  17.8.2022 00:02  fc 50
+ 4135  17.8.2022 00:02  sudo nvim /etc/X11/xinit/xinitrc
+ 4136  17.8.2022 00:02  fc --list
+ 4137  17.8.2022 00:02  man fc
+ 4138  17.8.2022 00:02  fc -l
+ 4139  17.8.2022 00:03  man fc
+ 4140  17.8.2022 00:03  grep -r .
+ 4141  17.8.2022 00:04  grep -r "STAMP" .
+ 4142  17.8.2022 00:04  lf
+ 4143  17.8.2022 00:04  grep -r "STAMP" .
+ 4144  17.8.2022 00:04  history -E
+ 4145  17.8.2022 00:04  date +%-d.%-m.%y
+ 4146  17.8.2022 00:05  date +%-d.%-m.%Y
+ 4147  17.8.2022 00:05  grep -r "STAMP" .
+ 4148  17.8.2022 00:05  history -E
+ 4149  17.8.2022 00:06  history -E | grep date+%-d.%-m.%Y
+ 4150  17.8.2022 00:06  history -E | grep date +%-d.%-m.%Y
+ 4151  17.8.2022 00:06  history -E | grep $(date +%-d.%-m.%Y)
+ 4152  17.8.2022 00:07  cd $pOS_CONFIG_DIR/
+ 4153  17.8.2022 00:07  lf
+ 4154  17.8.2022 00:07  ls
+ 4155  17.8.2022 00:07  lf
+ 4156  17.8.2022 00:07  ls
+ 4157  17.8.2022 00:07  git clone https://github.com/FT-Labs/Logs && cd $_
+ 4158  17.8.2022 00:07  ls
+ 4159  17.8.2022 00:07  cd Logs
+ 4160  17.8.2022 00:07  ls
+ 4161  17.8.2022 00:08  sudo nvim ./pOS-powermenu
+ 4162  17.8.2022 00:10  cd /tmp
+ 4163  17.8.2022 00:10  ls
+ 4164  17.8.2022 00:10  git status
+ 4165  17.8.2022 00:12  ls
+ 4166  17.8.2022 00:12  vim out.txt
+ 4167  17.8.2022 00:12  rm out.txt
+ 4168  17.8.2022 00:12  sudo nvim /usr/share/phyos/util-scripts/pOS-powermenu
+ 4169  17.8.2022 00:24  cd .config
+ 4170  17.8.2022 00:24  ls
+ 4171  17.8.2022 00:24  cd jgmenu
+ 4172  17.8.2022 00:24  ls
+ 4173  17.8.2022 00:24  vim jgmenurc
+ 4174  17.8.2022 00:27  cd ~/tmp
+ 4175  17.8.2022 00:27  ls
+ 4176  17.8.2022 00:27  sudo rm -r picom
+ 4177  17.8.2022 00:27  git clone https://github.com/ibhagwan/picom
+ 4178  17.8.2022 00:27  lf
+ 4179  17.8.2022 00:27  ls
+ 4180  17.8.2022 00:27  vim win.c
+ 4181  17.8.2022 00:27  jmp @progs
+ 4182  17.8.2022 00:27  lf
+ 4183  17.8.2022 00:27  ls
+ 4184  17.8.2022 00:27  git pull
+ 4185  17.8.2022 00:28  ls
+ 4186  17.8.2022 00:28  cd src
+ 4187  17.8.2022 00:28  ls
+ 4188  17.8.2022 00:28  pwd | xcp
+ 4189  17.8.2022 00:28  meld /home/rzero/.local/src/CORE/picom/src/opengl.c ./opengl.c
+ 4190  17.8.2022 00:29  cd ..
+ 4191  17.8.2022 00:29  ls
+ 4192  17.8.2022 00:29  sudo ./make.sh
+ 4193  17.8.2022 00:30  ls
+ 4194  17.8.2022 00:30  pwd | xcp
+ 4195  17.8.2022 00:30  cp make.sh /home/rzero/tmp/picom/src\n
+ 4196  17.8.2022 00:30  ls
+ 4197  17.8.2022 00:30  cd ..
+ 4198  17.8.2022 00:30  mv src/make.sh ./
+ 4199  17.8.2022 00:30  sudo ./make.sh
+ 4200  17.8.2022 00:31  ls
+ 4201  17.8.2022 00:31  lf
+ 4202  17.8.2022 00:31  vim opengl.c
+ 4203  17.8.2022 00:32  git checkout -- .
+ 4204  17.8.2022 00:32  sudo ./make.sh
+ 4205  17.8.2022 00:32  vim opengl.c
+ 4206  17.8.2022 00:32  vim src/opengl.c
+ 4207  17.8.2022 00:32  vim opengl.c
+ 4208  17.8.2022 00:33  meld /home/rzero/.local/src/CORE/picom/src/opengl.c ./opengl.c
+ 4209  17.8.2022 00:34  ls
+ 4210  17.8.2022 00:34  sudo ./make.sh
+ 4211  17.8.2022 00:34  vim opengl.c
+ 4212  17.8.2022 00:34  vim src/opengl.c
+ 4213  17.8.2022 00:35  sudo ./make.sh
+ 4214  17.8.2022 00:35  meld /home/rzero/.local/src/CORE/picom/src/opengl.c ./opengl.c
+ 4215  17.8.2022 00:35  ls
+ 4216  17.8.2022 00:35  pwd | xcp
+ 4217  17.8.2022 00:35  cp opengl.c /home/rzero/.local/src/CORE/picom/src/opengl.c
+ 4218  17.8.2022 00:35  cp opengl.h /home/rzero/.local/src/CORE/picom/src/opengl.h
+ 4219  17.8.2022 00:35  sudo ./make.sh
+ 4220  17.8.2022 00:36  vim opengl.c
+ 4221  17.8.2022 00:36  vim src/opengl.c
+ 4222  17.8.2022 00:37  vim src/win.h
+ 4223  17.8.2022 00:38  sudo ./make.sh
+ 4224  17.8.2022 00:38  vim src/win.h
+ 4225  17.8.2022 00:38  sudo ./make.sh
+ 4226  17.8.2022 00:39  git checkout -- .
+ 4227  17.8.2022 00:39  vim src/opengl.c
+ 4228  17.8.2022 00:40  git status
+ 4229  17.8.2022 00:40  sudo ./make.sh
+ 4230  17.8.2022 00:42  vim src/opengl.c
+ 4231  17.8.2022 00:44  vim .config/picom/picom.conf
+ 4232  17.8.2022 00:47  ls
+ 4233  17.8.2022 00:47  cd tmp/picom
+ 4234  17.8.2022 00:47  ls
+ 4235  17.8.2022 00:47  vim src/opengl.c
+ 4236  17.8.2022 00:49  vim src/common.h 
+ 4237  17.8.2022 00:50  vim src/backend/gl/gl_common.c
+ 4238  17.8.2022 00:50  sudo ./make.sh
+ 4239  17.8.2022 00:50  vim src/backend/gl/gl_common.c
+ 4240  17.8.2022 00:50  vim src/opengl.c
+ 4241  17.8.2022 00:55  sudo ./make.sh
+ 4242  17.8.2022 00:55  vim src/opengl.c
+ 4243  17.8.2022 00:59  ls
+ 4244  17.8.2022 00:59  jmp @dwm
+ 4245  17.8.2022 00:59  ls
+ 4246  17.8.2022 00:59  git pull
+ 4247  17.8.2022 00:59  vim dwm.c
+ 4248  17.8.2022 00:59  vim keys.h
+ 4249  17.8.2022 01:07  jmp @progs
+ 4250  17.8.2022 01:07  lf
+ 4251  17.8.2022 01:07  ls
+ 4252  17.8.2022 01:07  vim src/picom.c
+ 4253  17.8.2022 01:08  sudo ./make.sh
+ 4254  17.8.2022 01:08  vim src/picom.c
+ 4255  17.8.2022 01:09  vim src/backend/gl/gl_common.c
+ 4256  17.8.2022 01:15  jmp @progs
+ 4257  17.8.2022 01:15  lf
+ 4258  17.8.2022 01:15  ls
+ 4259  17.8.2022 01:15  vim src/opengl.c
+ 4260  17.8.2022 01:18  sudo pacman -S picom
+ 4261  17.8.2022 01:20  vim .config/picom/picom.conf
+ 4262  17.8.2022 01:22  ls
+ 4263  17.8.2022 01:41  lf
+ 4264  17.8.2022 01:41  ls
+ 4265  17.8.2022 01:41  git status
+ 4266  17.8.2022 01:42  git branch --set-upstream-to=https://github.com/FT-Labs/Logs.git
+ 4267  17.8.2022 01:42  git set origin https://github.com/FT-Labs/Logs.git
+ 4268  17.8.2022 01:42  git add origin https://github.com/FT-Labs/Logs.git
+ 4269  17.8.2022 01:42  git remote add origin https://github.com/FT-Labs/Logs.git
+ 4270  17.8.2022 01:42  git status
+ 4271  17.8.2022 01:42  git push -u origin master
+ 4272  17.8.2022 01:43  git config --global credential.helper store
+ 4273  17.8.2022 01:44  git push -u origin master
+ 4274  17.8.2022 01:45  sudo nvim /usr/share/phyos/util-scripts/pOS-powermenu
+ 4275  17.8.2022 01:45  \t    \tcd "$HOME/Desktop/Codes/Los"\n\t\tit pull --rebase\n\t\td=$(date +%-d.%-m.%Y)\n\t\tmkdir $d && cd $d\n\t\thistory -E | rep $d >> ./hist.txt\n\t\tmv /tmp/file-chanes.txt ./file-chanes.txt\n\t\tit add -A\n\t\tit commit -m "$d"\n
