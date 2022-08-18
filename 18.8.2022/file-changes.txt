@@ -1,0 +1,13 @@
+/home/rzero/.local/src/makephyOS-git.py
+/home/rzero/.local/src/makephyOS-git.py
+/home/rzero/.local/src/makephyOS-git.py
+/home/rzero/.local/src/makephyOS-git.py
+/home/rzero/.local/src/makephyOS-git.py
+/home/rzero/.local/src/makephyOS-git.py
+/home/rzero/.local/src/makephyOS-git.py
+/home/rzero/.local/src/makephyOS-git.py
+/home/rzero/.local/src/makephyOS-git.py
+/home/rzero/.local/src/SYSTEM/phyOS-system-scripts/usr/share/phyos/util-scripts/pOS-powermenu
+/home/rzero/.local/src/SYSTEM/phyOS-system-scripts/usr/share/phyos/util-scripts/pOS-powermenu
+/home/rzero/.local/src/SYSTEM/phyOS-system-scripts/usr/share/phyos/util-scripts/pOS-powermenu
+/home/rzero/.local/src/SYSTEM/phyOS-system-scripts/usr/share/phyos/util-scripts/pOS-powermenu
